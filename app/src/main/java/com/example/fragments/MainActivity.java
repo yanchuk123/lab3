@@ -25,6 +25,8 @@ public class MainActivity extends FragmentActivity {
         FragmentTransaction transaction = manager.beginTransaction();
         transaction.add(R.id.container, listFragment);
         transaction.commit();
+
+        
     }
 
 }
