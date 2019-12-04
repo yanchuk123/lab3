@@ -23,6 +23,7 @@ public class Breed {
         this.mName = mName;
         this.mTemperament = mTemperament;
         this.mDescription = mDescription;
+
     }
 
     public Breed() {

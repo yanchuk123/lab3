@@ -101,6 +101,7 @@ public class ListAdapter extends RecyclerView.Adapter <ListAdapter.ListViewHolde
         listViewHolder.mName.setText(name);
         listViewHolder.mId.setText("Id: " + id);
 
+
     }
 
     @Override
